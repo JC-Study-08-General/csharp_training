@@ -1,0 +1,14 @@
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\bin\Debug\net8.0\Learning_CSharp.exe
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\bin\Debug\net8.0\Learning_CSharp.deps.json
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\bin\Debug\net8.0\Learning_CSharp.runtimeconfig.json
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\bin\Debug\net8.0\Learning_CSharp.dll
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\bin\Debug\net8.0\Learning_CSharp.pdb
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\Learning_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\Learning_CSharp.AssemblyInfoInputs.cache
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\Learning_CSharp.AssemblyInfo.cs
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\Learning_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\Learning_CSharp.dll
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\refint\Learning_CSharp.dll
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\Learning_CSharp.pdb
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\Learning_CSharp.genruntimeconfig.cache
+C:\Users\jrhea\Documents\00-Repositories\01-Learning\05-CSharp\Learning_w3Schools\Learning_w3Schools\obj\Debug\net8.0\ref\Learning_CSharp.dll

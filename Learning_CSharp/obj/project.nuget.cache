@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bIDnzlVqloQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrhea\\Documents\\00-Repositories\\01-Learning\\05-CSharp\\Learning_w3Schools\\Learning_w3Schools\\Learning_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrhea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\jrhea\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\jrhea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\jrhea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.21\\microsoft.netcore.app.host.win-x64.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
