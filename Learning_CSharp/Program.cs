@@ -1,4 +1,5 @@
 ﻿using System;
+using static Learning_CSharp.FizzBuzz;
 
 namespace Learning_CSharp
 {
@@ -9,8 +10,21 @@ namespace Learning_CSharp
             Console.WriteLine("I just got executed!");
         }
 
+        static void RunFizzBuzz()
+        {
+            List<IFizzBuzzRule> activeRules = [new FizzRule(), new BuzzRule()];
+            FizzBuzzRunner engine = new(activeRules);
+
+            for (int i = 1; i <= 100; i++)
+            {
+                Console.WriteLine(engine.GetOutput(i));
+            }
+        }
+
         static void Main(string[] args)
         {
+            RunFizzBuzz();
+            /*
             MyMethod();
 
             // Using the Car Class below
@@ -52,6 +66,7 @@ namespace Learning_CSharp
             ExceptionExample testError = new();
             testError.ExceptionTest();
             //testError.ForcedError(15);
+            */
         }
     }
 }
