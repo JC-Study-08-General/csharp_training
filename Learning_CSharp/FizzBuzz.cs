@@ -2,6 +2,7 @@
 
 namespace Learning_CSharp
 {
+    // Code from AI - structured in a way to optimise OOP and SOLID
     internal class FizzBuzz
     {
         // by putting the rules in the interface it makes this extensible
